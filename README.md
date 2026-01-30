@@ -1,6 +1,6 @@
 # The Impact of Visual Distraction on Reaction Time in Spot It!
 
-This repository contains a statistical analysis project completed during my undergraduate studies at the University of Toronto.
+This repository contains a statistical analysis project completed during my undergraduate studies at the University of Toronto in Winter 2022.
 
 The project investigates how increasing visual distraction affects participant accuracy and reaction time in a visual spot-the-difference task, using classical statistical modeling and hypothesis testing in R.
 
